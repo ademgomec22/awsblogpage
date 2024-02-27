@@ -285,7 +285,7 @@ clarusway_blog_proj (folder)
 
 - Step 17-18: Create S3 Event and set it as trigger for Lambda Function
 
-## Notes
+## Notes...
 
 - RDS database should be located in private subnet. just EC2 machines that has ALB security group can talk with RDS.
 
@@ -295,7 +295,7 @@ clarusway_blog_proj (folder)
 
 - EC2's are located in private subnets and only ALB can talk with them
 
-## Resources
+## Resources...
 
 - [Python Django Framework](https://www.djangoproject.com/)
 
